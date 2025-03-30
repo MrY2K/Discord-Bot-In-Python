@@ -6,8 +6,6 @@ and it has remienders of groups sessions in the discord server Like so:
 ![](.Assets/4.png)
 # How to make a Discord Bot
 
-> Following this Tut: https://realpython.com/how-to-make-a-discord-bot-python/#what-is-a-bot
-
 There are two key steps when you’re creating a bot:
 1. Create the bot user on Discord and register it with a guild.
 2. Write code that uses Discord’s APIs and implements your bot’s behaviors.
